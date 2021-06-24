@@ -2,7 +2,7 @@
   "name": "robo-oneguy",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "The Unlicense",
   "scripts": {
     "start": "nodemon src/main"
   },
